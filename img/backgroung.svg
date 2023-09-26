@@ -1,0 +1,27 @@
+<svg id="Group_5475" data-name="Group 5475" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1914.036" height="2803.688" viewBox="0 0 1914.036 2803.688">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.365" cy="-0.876" r="0.072" gradientTransform="matrix(-0.356, 0, 0, 1.122, 0.757, 0.115)" gradientUnits="objectBoundingBox">
+      <stop offset="0.434" stop-color="#bfd5e3"/>
+      <stop offset="0.657" stop-color="#bcd3e1"/>
+      <stop offset="0.809" stop-color="#b3cddd"/>
+      <stop offset="0.939" stop-color="#a3c2d6"/>
+      <stop offset="1" stop-color="#9abcd2"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="lime"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="0.777" cy="1.227" fy="1.201315999031067" r="10.662" gradientTransform="matrix(-0.136, 0, 0, 0.084, -0.378, -11.449)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dde8f0"/>
+      <stop offset="0.089" stop-color="#d1e0ea"/>
+      <stop offset="0.24" stop-color="#c3d7e5"/>
+      <stop offset="0.374" stop-color="#bfd5e3"/>
+      <stop offset="0.824" stop-color="#363c40"/>
+      <stop offset="1"/>
+    </radialGradient>
+  </defs>
+  <path id="Path_12121" data-name="Path 12121" d="M1215.364,2572.748c0-882.679,0-2803.688,0-2803.688H-698.672V2572.748Z" transform="translate(698.672 230.94)" fill="url(#radial-gradient)"/>
+  <path id="Path_12122" data-name="Path 12122" d="M1215.361-230.94H-698.672V2572.748H1215.361Z" transform="translate(698.672 230.94)" fill="url(#linear-gradient)" style="mix-blend-mode: screen;isolation: isolate"/>
+  <path id="Path_12123" data-name="Path 12123" d="M1215.361,466.94V199.983H-698.672V466.94Z" transform="translate(698.672 2336.748)" fill="url(#radial-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+  <path id="Path_23937" data-name="Path 23937" d="M1215.361-230.94H-698.672V2572.748H1215.361Z" transform="translate(698.672 230.94)" fill="url(#linear-gradient)" style="mix-blend-mode: screen;isolation: isolate"/>
+</svg>

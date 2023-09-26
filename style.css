@@ -1,0 +1,202 @@
+* {
+  /* text-align: center; */
+  margin: 0;
+  color: green;
+}
+
+.about {
+  background-image: url("img/about_img.svg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.us {
+  padding-top: 10em;
+  text-align: center;
+}
+
+.us > p {
+  margin-top: 2em;
+}
+
+.left-nav {
+  display:flex;
+  align-items: center;
+}
+
+.left-nav > p {
+  font-size: 1.5em;
+  margin-left: 0.7em;
+}
+
+.left-nav > img {
+  width: 50px;
+  height: 50px;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  margin: 10px;
+  list-style: none;
+}
+
+.contact {
+  background-color: darkgreen;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 0px;
+  height: 1em;
+}
+
+a {
+  text-decoration: none;
+  /* color: green; */
+}
+
+.contact > a {
+  color: white;
+}
+
+.our-mission {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4em;
+}
+
+.our-mission > p {
+  text-align: center;
+  width: 35vw;
+  margin-top: 20px;
+}
+
+.our-team {
+  background-image: url("img/backgroung.svg");
+  padding: 20px;
+  text-align: center;
+}
+
+.our-team > p {
+  margin-top: 2em;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  height: 14em;
+  width: 14em;
+  border-radius: 2em;
+  padding: 1.5em;
+  margin: 20px;
+  box-shadow: 1px 1px 1px rgba(0, 255, 0, 0.3);
+}
+
+.card > * {
+  padding: 10px;
+}
+
+.card > img {
+  width: 5em;
+  height: 5em;
+  border-radius: 5em;
+  margin-bottom:1em;
+}
+
+.social-icons {
+  display: flex;
+}
+
+.social-icons > img {
+  width: 2.5em;
+  height: 2.5em;
+  padding: 10px;
+  border-radius: 2em;
+}
+
+.card > * {
+  position: relative;
+  bottom: 4.5em;
+}
+
+footer {
+  background-color: #445551;
+  padding: 3em;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3em;
+}
+
+.logo > p {
+  color: white;
+  font-size: 1.5em;
+  margin-left: 0.7em;
+}
+
+.logo > img {
+  width: 50px;
+  height: 50px;
+}
+
+.info {
+  display: flex;
+}
+
+.column {
+  margin-right: 6em;
+}
+
+.column > * {
+  color: #899990;
+  margin: 5px;
+}
+
+.white {
+  color: white;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.info div:first-child > .white {
+  width:3em;
+}
+
+.info div:last-child > .white {
+  text-align: right;
+  margin-bottom: 1.5em;
+  padding-right: 15px;
+}
+
+.terms {
+  background-color: #293633;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+
+.terms > p {
+  color: white;
+}
